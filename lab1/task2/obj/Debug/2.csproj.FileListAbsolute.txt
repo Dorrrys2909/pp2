@@ -1,0 +1,6 @@
+C:\Users\Дария\source\repos\lab1\2\bin\Debug\2.exe.config
+C:\Users\Дария\source\repos\lab1\2\bin\Debug\2.exe
+C:\Users\Дария\source\repos\lab1\2\bin\Debug\2.pdb
+C:\Users\Дария\source\repos\lab1\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Дария\source\repos\lab1\2\obj\Debug\2.exe
+C:\Users\Дария\source\repos\lab1\2\obj\Debug\2.pdb
