@@ -1,0 +1,7 @@
+C:\Users\Дария\source\repos\Week3\farmanager\obj\Debug\farmanager.csprojAssemblyReference.cache
+C:\Users\Дария\source\repos\Week3\farmanager\obj\Debug\farmanager.csproj.CoreCompileInputs.cache
+C:\Users\Дария\source\repos\Week3\farmanager\bin\Debug\farmanager.exe.config
+C:\Users\Дария\source\repos\Week3\farmanager\bin\Debug\farmanager.exe
+C:\Users\Дария\source\repos\Week3\farmanager\bin\Debug\farmanager.pdb
+C:\Users\Дария\source\repos\Week3\farmanager\obj\Debug\farmanager.exe
+C:\Users\Дария\source\repos\Week3\farmanager\obj\Debug\farmanager.pdb
